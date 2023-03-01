@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/rayleigh/pdf"
-click B href "https://github.com/stdlib-js/stats-base-dists-rayleigh-pdf/tree/main"
-click C href "https://github.com/stdlib-js/stats-base-dists-rayleigh-pdf/tree/production"
-click D href "https://github.com/stdlib-js/stats-base-dists-rayleigh-pdf/tree/esm"
-click E href "https://github.com/stdlib-js/stats-base-dists-rayleigh-pdf/tree/deno"
-click F href "https://github.com/stdlib-js/stats-base-dists-rayleigh-pdf/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/rayleigh/pdf"
+%% click B href "https://github.com/stdlib-js/stats-base-dists-rayleigh-pdf/tree/main"
+%% click C href "https://github.com/stdlib-js/stats-base-dists-rayleigh-pdf/tree/production"
+%% click D href "https://github.com/stdlib-js/stats-base-dists-rayleigh-pdf/tree/esm"
+%% click E href "https://github.com/stdlib-js/stats-base-dists-rayleigh-pdf/tree/deno"
+%% click F href "https://github.com/stdlib-js/stats-base-dists-rayleigh-pdf/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/rayleigh/pdf
