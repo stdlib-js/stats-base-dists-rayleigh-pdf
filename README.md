@@ -65,13 +65,13 @@ where `sigma > 0` is the scale parameter.
 ## Usage
 
 ```javascript
-import pdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-pdf@deno/mod.js';
+import pdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-pdf@v0.1.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-pdf@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-pdf@v0.1.0-deno/mod.js';
 ```
 
 #### pdf( x, sigma )
@@ -145,7 +145,7 @@ y = myPDF( 4.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import pdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-pdf@deno/mod.js';
+import pdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-pdf@v0.1.0-deno/mod.js';
 
 var sigma;
 var x;
